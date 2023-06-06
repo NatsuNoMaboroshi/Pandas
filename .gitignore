@@ -206,3 +206,6 @@ __pycache__
 # Other
 /src/*/*.aps
 /db/cache
+
+# Inzend
+log
